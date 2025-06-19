@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, IconButton, Paper, Typography } from '@mui/material';
+import {  IconButton, Paper, Typography } from '@mui/material';
 import DeleteIcon from '@mui/icons-material/Delete';
 
 type Props ={
